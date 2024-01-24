@@ -1,4 +1,4 @@
-## Olá! Eu sou o Jhon Dharkyson 🖐️
+## Olá! Eu sou o Jhon 🖐️
 
 [![Blog](https://img.shields.io/website?label=JhonDharkyson.com&style=for-the-badge&url=https://jhondharkyson.com/)](https://jhondharkyson.com/)
 
