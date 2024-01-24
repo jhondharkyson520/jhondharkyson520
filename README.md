@@ -22,6 +22,10 @@
 
 🌟 Transformando vidas com código! 💻
 
+🎓 Formado em Sistemas de Informação pela UEMG.
+
+🔍 Pós-graduado em Projetos Cloud Computing e Projetos Aplicativos Móveis Multiplataforma.
+
 🎓 Eterno aprendiz 👨‍💻
 
 Seja bem-vindo ao meu mundo de bits e bytes, onde a paixão pela tecnologia se funde com a missão de educar e capacitar. Estou sempre em busca de novos desafios e oportunidades para fazer a diferença na vida das pessoas através da programação. Vamos codificar o futuro juntos! 🌍💡
