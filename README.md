@@ -28,7 +28,7 @@
 🔍 Pós-graduado em Projetos Cloud Computing e Projetos Aplicativos Móveis Multiplataforma. 📚
 
 
-### Últimos projetos:
-- [Portifólio](https://jhondharkyson.com/)<br/>
-- [Catálogo online feito para uma fábrica de máquinas de vulcanização - https://fabiopelicermaquinas.com.br/]<br/>
-- [Criando página de venda de carros](https://github.com/jhondharkyson520/webcarros)<br/>
+### Alguns projetos:
+- Portifólio https://jhondharkyson.com/<br/>
+- Catálogo online feito para uma fábrica de máquinas de vulcanização - https://fabiopelicermaquinas.com.br/<br/>
+- Landing page feito para uma sorveteria - https://sorveteriapinguimfronteira.com/<br/>
