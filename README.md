@@ -3,8 +3,23 @@
 [![Blog](https://img.shields.io/website?label=JhonDharkyson.com&style=for-the-badge&url=https://jhondharkyson.com/)](https://jhondharkyson.com/)
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-9146FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-mendon%C3%A7a-203925163/)
+<p align="center">
+  <a href="https://github.com/jhondharkyson520">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhondharkyson520&theme=tokyonight&hide_border=true" alt="jhondharkyson520" />
+  </a>
+</p>
 
-![Jhon GitHub stats](https://github-readme-stats.vercel.app/api?username=jhondharkyson520&show_icons=true&theme=dracula&count_private=true)
+<p align="center">
+  
+  <a href="https://github.com/jhondharkyson520">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhondharkyson520&langs_count=6&hide_border=true&hide=html,css,scss&layout=compact&theme=tokyonight" alt="jhondharkyson520" />
+  </a>
+  <a href="https://github.com/jhondharkyson520">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jhondharkyson520&hide_border=true&hide_title=true&show_icons=true&theme=tokyonight" alt="jhondharkyson520" />
+  </a>
+  
+</p>
+
 
 ## Tecnologias que eu uso no meu dia
 
@@ -19,13 +34,14 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/Postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-1B63ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img align="center" alt="express" src="https://img.shields.io/badge/Express-878a88?style=for-the-badge&logo=express&logoColor=white" />
 </div><br/>
 
-🚀 Apaixonado por Tecnologia 💻
+🚀 Apaixonado por Tecnologia 
 
-🎓 Formado em Sistemas de Informação pela UEMG. 👨‍💻
+- Formado em Sistemas de Informação pela UEMG.
 
-🔍 Pós-graduado em Projetos Cloud Computing e Projetos Aplicativos Móveis Multiplataforma. 📚
+- Pós-graduado em Projetos Cloud Computing e Projetos Aplicativos Móveis Multiplataforma. 
 
 
 ### Alguns projetos:
