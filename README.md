@@ -4,8 +4,6 @@
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-9146FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-mendon%C3%A7a-203925163/)
 
-<img align="right" alt="GIF" src="[https://raw.githubusercontent.com/matg0mes/matg0mes/main/what.gif?raw=true](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhvczJldzN3ZmsyOW4yejR4b25qbWltdW90cHE1Y3RyaGlpYnIyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)" width="400" height="320" />
-
 ![Jhon GitHub stats](https://github-readme-stats.vercel.app/api?username=jhondharkyson520&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
