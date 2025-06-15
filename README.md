@@ -15,18 +15,6 @@ Tenho experiência com projetos reais como freelancer e diversos projetos autora
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhondharkyson520&langs_count=6&hide_border=true&hide=html,css,scss&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhondharkyson520&hide_border=true&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ### 🛠️ Tecnologias que uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
@@ -60,6 +48,18 @@ Tenho experiência com projetos reais como freelancer e diversos projetos autora
   *Tecnologias:* **React, Next.js, Node.js, Prisma, PostgreSQL, Express, Docker, VPS, SSH.**
 
 - 🔗 [**Todos os projetos estão disponíveis aqui no GitHub »**](https://github.com/jhondharkyson520?tab=repositories)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhondharkyson520&langs_count=6&hide_border=true&hide=html,css,scss&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhondharkyson520&hide_border=true&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
